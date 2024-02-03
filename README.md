@@ -9,8 +9,6 @@ acoplar con cualquier otra framework y que además no agrega más carga al proye
 decir a la aplicación propia dicha ya que no le instala ningún paquete o dependencia porque
 actua como proyecto independiente.
 
-`Para correr el proyecto es con el comando: npm run cypress:open`
-
 ## Instalar dependencias
 
 ```bash
